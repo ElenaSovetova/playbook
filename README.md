@@ -1,6 +1,7 @@
 # playbook
 
 =========
+
 Плэйбук устанавливает на виртуальные машины 
 * Clickhouse
 * Lighthouse
@@ -9,8 +10,9 @@ lighthouse будет установлен в /home/lighthouse
 * Vector
 версия:0.21.0
  Файл установки Vector- vector_rpm 
-Прописаны тэги
+В плэйбуке прописаны тэги
 * tags: nginx
 * tags: clickhouse
 * tags: vector
 * tags: lighthouse
+=========
