@@ -1,6 +1,6 @@
 # playbook
 
-=========
+
 
 Плэйбук устанавливает на виртуальные машины 
 * Clickhouse
@@ -17,4 +17,4 @@
 * tags: clickhouse
 * tags: vector
 * tags: lighthouse
-=========
+
