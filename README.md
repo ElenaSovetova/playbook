@@ -10,6 +10,8 @@
 * Vector
 (версия:0.21.0
  Файл установки Vector- vector_rpm )
+ 
+------------
 В плэйбуке прописаны тэги
 * tags: nginx
 * tags: clickhouse
